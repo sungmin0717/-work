@@ -1,0 +1,54 @@
+body{
+  background-color: #03001C;
+  min-height: 100%;
+
+  margin: 0px;
+  padding: 0px;
+}
+
+header{
+  display: flex;
+  border: 1px solid red;
+  width: 100%;
+  height: 150px;
+}
+.search{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid red;
+  height: 100%;
+  width: 50%;
+}
+
+main{
+  display: flex;
+  border: 1px solid red;
+  width: 100%;
+  height: 1500px;
+}
+
+footer{
+  border: 1px solid red;
+  width: 100%;
+  height: 150px;
+}
+
+.logoCn{
+  border: 1px solid salmon;
+  width: 200px;
+  height: 100px;
+}
+
+
+.Lmain{
+  background-color: red;
+  width: 40%;
+  height: 100%;
+}
+
+.Rmain{
+  background-color: green;
+  width: 60%;
+  height: 100%;
+}
