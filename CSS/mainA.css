@@ -1,7 +1,7 @@
 .font{
   display: flex;
   align-items: center;
-  width: 40%;
+  width: 42%;
   height: 100%;
 }
 
@@ -13,11 +13,12 @@ header{
 
 h1 span {
   position: relative;
+  
   top: 10px;
   display: inline-block;
   animation: bounce .3s ease infinite alternate;
   font-family: 'Titan One', cursive;
-  font-size: 40px;
+  font-size: 100%;
   color: #ffffff;
   text-shadow: 0 1px 0 #535C91,
                0 2px 0 #535C91,
