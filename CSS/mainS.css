@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1&display=swap');
+
+
 body{
   background-color: #03001C;
   min-height: 100%;
@@ -73,6 +76,7 @@ footer{
   color: rgb(221, 27, 27);
   text-align: center;
   font-size: 70px;
+  font
   text-shadow: 6px 2px 2px gray;
 }
 
@@ -116,4 +120,17 @@ footer{
   align-items: center;
   width: 50%;
   height: 100%;
+}
+.youtube{
+  width: 30%;
+}
+.leftUi{
+  width: 80%;
+  display: flex;
+  justify-content: space-evenly;
+  border: 1px solid silver;
+  border-radius: 20px;
+  align-items: center;
+  color: aquamarine;
+  font-family: "Gothic A1", sans-serif;
 }
